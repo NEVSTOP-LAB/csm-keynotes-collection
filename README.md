@@ -1,6 +1,3 @@
-Public CSM Keynotes Collection | 公开的 CSM 讲演资料集合
---------------------------------------------------------
-
 ![csm-links](_doc/CSM%20Links.png)
 
 **一种全新的开源 LabVIEW 编程架构-可通讯状态机(CSM)架构@NI全联结峰会2024**
